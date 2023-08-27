@@ -40,7 +40,8 @@ int main(void)
                     is_prime = 0;
                     break;
                 }
-            }
+            }file:
+
         }
 
         // Verifica se é primo e imprime:
